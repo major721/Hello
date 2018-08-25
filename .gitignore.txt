@@ -1,4 +1,4 @@
 /*
 !/src
-!/webapp
+!/WebContent
 !/.gitignore
